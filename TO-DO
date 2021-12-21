@@ -1,0 +1,15 @@
+
+- (A+E)u = f
+- Au = (f + e)
+
+- Matrices
+    - 2D Poisson
+    - BCS Structural Engineering problem 
+        - 5 matrices
+        - (https://math.nist.gov/MatrixMarket/data/Harwell-Boeing/bcsstruc2/bcsstruc2.html)
+    - LanPro
+        - 7 matrices
+        - (https://math.nist.gov/MatrixMarket/data/Harwell-Boeing/lanpro/lanpro.html)
+    - CylShell 
+        - 9 matrices
+        - (https://math.nist.gov/MatrixMarket/data/misc/cylshell/cylshell.html)

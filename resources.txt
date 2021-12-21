@@ -1,0 +1,9 @@
+PDF Overview of methods 
+- https://math.temple.edu/~szyld/papers/inexSISC.pdf
+
+PyAMG
+- https://github.com/pyamg/pyamg
+- https://pyamg.readthedocs.io/en/latest/index.html
+
+Multigrid example
+- http://www.vallis.org/salon2/lecture2-script.html
